@@ -4,13 +4,13 @@
       "message": "Following emails are already registered.",
       "errors": {
           "emails": [
-              "vikas@kapaidya",
-              "vikas1@kapadiya.net"
+              "abc@xyz",
+              "abc@xyz.net"
           ]
       }
     }
   ,
   "profile": {
-    "name": "typicode"
+    "name": "my-fake-api"
   }
 }
