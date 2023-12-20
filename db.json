@@ -1,6 +1,5 @@
 {
-  "posts": [
-    {
+  "posts": {
       "success": false,
       "message": "Following emails are already registered.",
       "errors": {
@@ -10,7 +9,7 @@
           ]
       }
     }
-  ],
+  ,
   "profile": {
     "name": "typicode"
   }
